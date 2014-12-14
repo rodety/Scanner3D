@@ -1,0 +1,1 @@
+/home/vidal/Documents/ComputacionGrafica/read/build/CMakeFiles/SimplePointsReader.dir
